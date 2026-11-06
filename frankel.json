@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1793752904,
-      "filename": "DriftVaneOS-1.0-20261104-UNOFFICIAL-frankel.zip",
-      "id": "208c0f520b885656f3ff6f997b6d0e1de5fa87da61f8aade83e715145a1ec33d",
+      "datetime": 1793974142,
+      "filename": "DriftVaneOS-1.0-20261106-UNOFFICIAL-frankel.zip",
+      "id": "3afb8ca2378ab5db4c7d1133c2e4025461daf1bcc1dc449f4edbf109cb55e0b1",
       "romtype": "UNOFFICIAL",
-      "size": 1771519725,
-      "url": "https://github.com/DriftVaneOS/OTA/releases/download/v1.0-20261104/DriftVaneOS-1.0-20261104-UNOFFICIAL-frankel.zip",
+      "size": 1796476279,
+      "url": "https://github.com/DriftVaneOS/OTA/releases/download/v1.0-20261106/DriftVaneOS-1.0-20261106-UNOFFICIAL-frankel.zip",
       "version": "24.0"
     }
   ]
