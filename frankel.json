@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1794182911,
-      "filename": "DriftVaneOS-1.0-20261109-UNOFFICIAL-frankel.zip",
-      "id": "5a850d0824f6889af40887b22f660283f1e4f143f199654a9323a4eb0544b887",
-      "romtype": "UNOFFICIAL",
-      "size": 1813570316,
-      "url": "https://github.com/DriftVaneOS/OTA/releases/download/v1.0-20261109/DriftVaneOS-1.0-20261109-UNOFFICIAL-frankel.zip",
+      "datetime": 1794512515,
+      "filename": "bitDroid-1.0-20261112-OFFICIAL-frankel.zip",
+      "id": "dc310ca6964bc812bc67d9ffd274a166006bfb709d77c57b783267319f4038bf",
+      "romtype": "OFFICIAL",
+      "size": 1748907530,
+      "url": "https://github.com/bitDroidOS/OTA/releases/download/v1.0-20261112/bitDroid-1.0-20261112-OFFICIAL-frankel.zip",
       "version": "24.0"
     }
   ]
