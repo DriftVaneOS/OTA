@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1794512515,
-      "filename": "bitDroid-1.0-20261112-OFFICIAL-frankel.zip",
-      "id": "dc310ca6964bc812bc67d9ffd274a166006bfb709d77c57b783267319f4038bf",
+      "datetime": 1794625383,
+      "filename": "bitDroid-1.0-20261114-OFFICIAL-frankel.zip",
+      "id": "89531f259fb5d18ecf5a9f4f62c59d37392c0aec8839e6c789bcd4c3fe1275fe",
       "romtype": "OFFICIAL",
-      "size": 1748907530,
-      "url": "https://github.com/bitDroidOS/OTA/releases/download/v1.0-20261112/bitDroid-1.0-20261112-OFFICIAL-frankel.zip",
+      "size": 1723273937,
+      "url": "https://github.com/bitDroidOS/OTA/releases/download/v1.0-20261114/bitDroid-1.0-20261114-OFFICIAL-frankel.zip",
       "version": "24.0"
     }
   ]
